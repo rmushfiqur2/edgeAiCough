@@ -1,0 +1,8 @@
+checkpoint/
+data/
+checkpoint_/
+*.pyc
+public_dataset.zip
+public_dataset/*
+__pycache__/*
+.idea/*
