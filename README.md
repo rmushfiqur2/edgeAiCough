@@ -26,6 +26,7 @@ Now you are good to go with training and testing
 
 ##### My conda environment
 My conda package list is given below:
+```
 (DF) mush@mush-XPS-15:~$ conda list
 _libgcc_mutex             0.1                 conda_forge    conda-forge
 _openmp_mutex             4.5                  2_kmp_llvm    conda-forge
@@ -296,7 +297,7 @@ zeromq                    4.3.4                h2531618_0
 zipp                      3.11.0           py38h06a4308_0  
 zlib                      1.2.13               h5eee18b_0  
 zstd                      1.5.2                ha4553b6_0  
-(DF) mush@mush-XPS-15:~$ 
+```
 
 
 
