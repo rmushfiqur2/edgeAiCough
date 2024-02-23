@@ -18,7 +18,7 @@ And to test its performance
 You need to download the EdgeAICough folder inside ./data
 Folder structure should look like ./data/EdgeAICough/train.pt
 
-To have these data you first need to download the `public_dataset.zip` from [here](). This is different from original `public_dataset.zip` of the dataset website, as I divided them into train and test.
+To have these data you first need to download the `public_dataset.zip` from [here](https://drive.google.com/file/d/1vCR_-QN_1R65z__yl8GjKn73p5CoRkdO/view?usp=drive_link). This is different from original `public_dataset.zip` of the dataset website, as I divided them into train and test.
 Extract the .zip file inside the folder: ./public_dataset/train/...
 
 Then run the file ``process_cough_data.py``. It will generate four files inside ./data/EdgeAICough/
